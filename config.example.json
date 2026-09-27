@@ -1,0 +1,13 @@
+{
+  "thegraph_api_key": "DAN_KEY_THEGRAPH_VAO_DAY",
+  "etherscan_api_key": "",
+  "rpc": {
+    "bsc": [
+      "https://bsc-mainnet.nodereal.io/v1/<NODEREAL_KEY>",
+      "https://lb.drpc.org/ogrpc?network=bsc&dkey=<DRPC_KEY>",
+      "https://rpc.ankr.com/bsc/<ANKR_KEY>"
+    ],
+    "ethereum": [],
+    "base": []
+  }
+}

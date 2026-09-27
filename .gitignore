@@ -1,0 +1,23 @@
+# Dữ liệu quét — phình lên theo mỗi lần chạy
+out/
+*.csv
+*.json
+!config.example.json
+
+# API key — KHÔNG BAO GIỜ commit
+config.json
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Linh tinh
+Claude outputs/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
